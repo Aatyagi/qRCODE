@@ -2,7 +2,7 @@ body{
     text-align: center;
     font-family: 'Outfit', sans-serif;
 }
-@media only screen and (device-width:1440px)){
+@media only screen and (device-width:1440px){
 h3{
     font-weight: 700;
 }
